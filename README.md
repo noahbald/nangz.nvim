@@ -2,6 +2,8 @@
 
 Noah's Awesome Neovim GUI in Zellij
 
+https://github.com/user-attachments/assets/c49d655d-2129-485c-b534-62805745642f
+
 ## ✨ Features
 
 This is intended to be a drop-in replacement for some of the UI defaults provided by lazyvim. You'll find the performance of running TUIs in Zellij much faster than the overhead of running them within Neovim.
